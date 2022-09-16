@@ -42,24 +42,24 @@ div{
     width: 100%;
 }
 
-    #menuHaut{
-        background-color: rgb(64, 190, 70);
-        width: 175px;
-        height: 500px;
-    }
+#menuHaut{
+    background-color: rgb(64, 190, 70);
+    width: 175px;
+    height: 500px;
+}
 
-    div#divPetitEnfant3{
-        float: right;
-        width: 15%;
-        height: 75px;
-        padding: 10px;
-        background-color: rgb(197, 71, 21);
-    }
+div#divPetitEnfant3{
+    float: right;
+    width: 15%;
+    height: 75px;
+    padding: 10px;
+    background-color: rgb(197, 71, 21);
+}
 
-    .h1-contenu{
-        text-align: center;
-        padding: 75px;
-    }
+.h1-contenu{
+    text-align: center;
+    padding: 75px;
+}    
 
 h1.centrage{
     text-align: center;
@@ -71,7 +71,6 @@ h1.centrage{
     width: 175px;
     height: 500px;
 }
-
 
 #div-Footer{
     width: 100%;
